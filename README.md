@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on GCP, Terraform and Python related projects.
+- 🌱 I’m currently learning Google Cloud Security.
+- 👯 I’m looking to collaborate on cloud and security related projects.
+
 <!--
 **mikeps73/mikeps73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
